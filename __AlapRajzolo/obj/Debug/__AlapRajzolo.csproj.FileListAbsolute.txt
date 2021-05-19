@@ -1,0 +1,54 @@
+D:\Troll\BevGraf\2020_21_BevGraf_CO\__AlapRajzolo\__AlapRajzolo\bin\Debug\__AlapRajzolo.exe.config
+D:\Troll\BevGraf\2020_21_BevGraf_CO\__AlapRajzolo\__AlapRajzolo\bin\Debug\__AlapRajzolo.exe
+D:\Troll\BevGraf\2020_21_BevGraf_CO\__AlapRajzolo\__AlapRajzolo\bin\Debug\__AlapRajzolo.pdb
+D:\Troll\BevGraf\2020_21_BevGraf_CO\__AlapRajzolo\__AlapRajzolo\obj\Debug\__AlapRajzolo.csprojResolveAssemblyReference.cache
+D:\Troll\BevGraf\2020_21_BevGraf_CO\__AlapRajzolo\__AlapRajzolo\obj\Debug\__AlapRajzolo.Form1.resources
+D:\Troll\BevGraf\2020_21_BevGraf_CO\__AlapRajzolo\__AlapRajzolo\obj\Debug\__AlapRajzolo.Properties.Resources.resources
+D:\Troll\BevGraf\2020_21_BevGraf_CO\__AlapRajzolo\__AlapRajzolo\obj\Debug\__AlapRajzolo.csproj.GenerateResource.Cache
+D:\Troll\BevGraf\2020_21_BevGraf_CO\__AlapRajzolo\__AlapRajzolo\obj\Debug\__AlapRajzolo.exe
+D:\Troll\BevGraf\2020_21_BevGraf_CO\__AlapRajzolo\__AlapRajzolo\obj\Debug\__AlapRajzolo.pdb
+C:\Users\O.Zsolt\Desktop\2020_21_BevGraf_CO\12_BezierN\__AlapRajzolo\bin\Debug\__AlapRajzolo.exe.config
+C:\Users\O.Zsolt\Desktop\2020_21_BevGraf_CO\12_BezierN\__AlapRajzolo\bin\Debug\__AlapRajzolo.exe
+C:\Users\O.Zsolt\Desktop\2020_21_BevGraf_CO\12_BezierN\__AlapRajzolo\bin\Debug\__AlapRajzolo.pdb
+C:\Users\O.Zsolt\Desktop\2020_21_BevGraf_CO\12_BezierN\__AlapRajzolo\obj\Debug\__AlapRajzolo.csprojAssemblyReference.cache
+C:\Users\O.Zsolt\Desktop\2020_21_BevGraf_CO\12_BezierN\__AlapRajzolo\obj\Debug\__AlapRajzolo.Form1.resources
+C:\Users\O.Zsolt\Desktop\2020_21_BevGraf_CO\12_BezierN\__AlapRajzolo\obj\Debug\__AlapRajzolo.Properties.Resources.resources
+C:\Users\O.Zsolt\Desktop\2020_21_BevGraf_CO\12_BezierN\__AlapRajzolo\obj\Debug\__AlapRajzolo.csproj.GenerateResource.cache
+C:\Users\O.Zsolt\Desktop\2020_21_BevGraf_CO\12_BezierN\__AlapRajzolo\obj\Debug\__AlapRajzolo.exe
+C:\Users\O.Zsolt\Desktop\2020_21_BevGraf_CO\12_BezierN\__AlapRajzolo\obj\Debug\__AlapRajzolo.pdb
+C:\Users\O.Zsolt\Desktop\2020_21_BevGraf_CO\12_BezierNSpline\__AlapRajzolo\bin\Debug\__AlapRajzolo.exe.config
+C:\Users\O.Zsolt\Desktop\2020_21_BevGraf_CO\12_BezierNSpline\__AlapRajzolo\bin\Debug\__AlapRajzolo.exe
+C:\Users\O.Zsolt\Desktop\2020_21_BevGraf_CO\12_BezierNSpline\__AlapRajzolo\bin\Debug\__AlapRajzolo.pdb
+C:\Users\O.Zsolt\Desktop\2020_21_BevGraf_CO\12_BezierNSpline\__AlapRajzolo\obj\Debug\__AlapRajzolo.csprojAssemblyReference.cache
+C:\Users\O.Zsolt\Desktop\2020_21_BevGraf_CO\12_BezierNSpline\__AlapRajzolo\obj\Debug\__AlapRajzolo.Form1.resources
+C:\Users\O.Zsolt\Desktop\2020_21_BevGraf_CO\12_BezierNSpline\__AlapRajzolo\obj\Debug\__AlapRajzolo.Properties.Resources.resources
+C:\Users\O.Zsolt\Desktop\2020_21_BevGraf_CO\12_BezierNSpline\__AlapRajzolo\obj\Debug\__AlapRajzolo.csproj.GenerateResource.cache
+C:\Users\O.Zsolt\Desktop\2020_21_BevGraf_CO\12_BezierNSpline\__AlapRajzolo\obj\Debug\__AlapRajzolo.exe
+C:\Users\O.Zsolt\Desktop\2020_21_BevGraf_CO\12_BezierNSpline\__AlapRajzolo\obj\Debug\__AlapRajzolo.pdb
+C:\Users\O.Zsolt\OneDrive\Asztali gép\2020_21_BevGraf_CO\12_BezierNSpline\__AlapRajzolo\bin\Debug\__AlapRajzolo.exe.config
+C:\Users\O.Zsolt\OneDrive\Asztali gép\2020_21_BevGraf_CO\12_BezierNSpline\__AlapRajzolo\bin\Debug\__AlapRajzolo.exe
+C:\Users\O.Zsolt\OneDrive\Asztali gép\2020_21_BevGraf_CO\12_BezierNSpline\__AlapRajzolo\bin\Debug\__AlapRajzolo.pdb
+C:\Users\O.Zsolt\OneDrive\Asztali gép\2020_21_BevGraf_CO\12_BezierNSpline\__AlapRajzolo\obj\Debug\__AlapRajzolo.csprojAssemblyReference.cache
+C:\Users\O.Zsolt\OneDrive\Asztali gép\2020_21_BevGraf_CO\12_BezierNSpline\__AlapRajzolo\obj\Debug\__AlapRajzolo.Form1.resources
+C:\Users\O.Zsolt\OneDrive\Asztali gép\2020_21_BevGraf_CO\12_BezierNSpline\__AlapRajzolo\obj\Debug\__AlapRajzolo.Properties.Resources.resources
+C:\Users\O.Zsolt\OneDrive\Asztali gép\2020_21_BevGraf_CO\12_BezierNSpline\__AlapRajzolo\obj\Debug\__AlapRajzolo.csproj.GenerateResource.cache
+C:\Users\O.Zsolt\OneDrive\Asztali gép\2020_21_BevGraf_CO\12_BezierNSpline\__AlapRajzolo\obj\Debug\__AlapRajzolo.exe
+C:\Users\O.Zsolt\OneDrive\Asztali gép\2020_21_BevGraf_CO\12_BezierNSpline\__AlapRajzolo\obj\Debug\__AlapRajzolo.pdb
+C:\Users\O.Zsolt\OneDrive\Asztali gép\Beadandó\Új mappa\12_BezierNSpline\__AlapRajzolo\bin\Debug\__AlapRajzolo.exe.config
+C:\Users\O.Zsolt\OneDrive\Asztali gép\Beadandó\Új mappa\12_BezierNSpline\__AlapRajzolo\bin\Debug\__AlapRajzolo.exe
+C:\Users\O.Zsolt\OneDrive\Asztali gép\Beadandó\Új mappa\12_BezierNSpline\__AlapRajzolo\bin\Debug\__AlapRajzolo.pdb
+C:\Users\O.Zsolt\OneDrive\Asztali gép\Beadandó\Új mappa\12_BezierNSpline\__AlapRajzolo\obj\Debug\__AlapRajzolo.csprojAssemblyReference.cache
+C:\Users\O.Zsolt\OneDrive\Asztali gép\Beadandó\Új mappa\12_BezierNSpline\__AlapRajzolo\obj\Debug\__AlapRajzolo.Form1.resources
+C:\Users\O.Zsolt\OneDrive\Asztali gép\Beadandó\Új mappa\12_BezierNSpline\__AlapRajzolo\obj\Debug\__AlapRajzolo.Properties.Resources.resources
+C:\Users\O.Zsolt\OneDrive\Asztali gép\Beadandó\Új mappa\12_BezierNSpline\__AlapRajzolo\obj\Debug\__AlapRajzolo.csproj.GenerateResource.cache
+C:\Users\O.Zsolt\OneDrive\Asztali gép\Beadandó\Új mappa\12_BezierNSpline\__AlapRajzolo\obj\Debug\__AlapRajzolo.exe
+C:\Users\O.Zsolt\OneDrive\Asztali gép\Beadandó\Új mappa\12_BezierNSpline\__AlapRajzolo\obj\Debug\__AlapRajzolo.pdb
+C:\Users\O.Zsolt\OneDrive\Asztali gép\Beadandó\Új mappa\JIQ9DC\__AlapRajzolo\bin\Debug\__AlapRajzolo.exe.config
+C:\Users\O.Zsolt\OneDrive\Asztali gép\Beadandó\Új mappa\JIQ9DC\__AlapRajzolo\bin\Debug\__AlapRajzolo.exe
+C:\Users\O.Zsolt\OneDrive\Asztali gép\Beadandó\Új mappa\JIQ9DC\__AlapRajzolo\bin\Debug\__AlapRajzolo.pdb
+C:\Users\O.Zsolt\OneDrive\Asztali gép\Beadandó\Új mappa\JIQ9DC\__AlapRajzolo\obj\Debug\__AlapRajzolo.csprojAssemblyReference.cache
+C:\Users\O.Zsolt\OneDrive\Asztali gép\Beadandó\Új mappa\JIQ9DC\__AlapRajzolo\obj\Debug\__AlapRajzolo.Form1.resources
+C:\Users\O.Zsolt\OneDrive\Asztali gép\Beadandó\Új mappa\JIQ9DC\__AlapRajzolo\obj\Debug\__AlapRajzolo.Properties.Resources.resources
+C:\Users\O.Zsolt\OneDrive\Asztali gép\Beadandó\Új mappa\JIQ9DC\__AlapRajzolo\obj\Debug\__AlapRajzolo.csproj.GenerateResource.cache
+C:\Users\O.Zsolt\OneDrive\Asztali gép\Beadandó\Új mappa\JIQ9DC\__AlapRajzolo\obj\Debug\__AlapRajzolo.exe
+C:\Users\O.Zsolt\OneDrive\Asztali gép\Beadandó\Új mappa\JIQ9DC\__AlapRajzolo\obj\Debug\__AlapRajzolo.pdb
